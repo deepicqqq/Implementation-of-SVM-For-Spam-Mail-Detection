@@ -19,8 +19,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ## Program:
 ```
 Program to implement the SVM For Spam Mail Detection..
-Developed by: A joans jay authers
-RegisterNumber: 212221240019
+Developed by : Deepika P
+RegisterNumber: 212223240024
 
 import pandas as pd
 data=pd.read_csv("spam.csv",encoding='latin-1')
